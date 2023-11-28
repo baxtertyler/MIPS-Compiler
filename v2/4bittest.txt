@@ -1,0 +1,6 @@
+mips> r
+mips> b
+
+accuracy 80.83% (10935 correct predictions, 13529 predictions)
+
+mips> q
